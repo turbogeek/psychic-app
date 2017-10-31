@@ -1,3 +1,6 @@
+This is a first cut at an expert system that can do cold reading. It uses the RuleReactor expert system for JavaScript as the engine.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
